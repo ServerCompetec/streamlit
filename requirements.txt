@@ -83,8 +83,6 @@ preshed==3.0.9
 prompt-toolkit==3.0.39
 protobuf==4.25.1
 psutil==5.9.6
-psycopg2==2.9.9
-psycopg2-binary==2.9.9
 pt-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-3.7.0/pt_core_news_sm-3.7.0-py3-none-any.whl#sha256=a3a8eed42c600af17c70ed3c8720ffe2879b5353055e66fe0c998306329052fd
 pure-eval==0.2.2
 pyarrow==14.0.1
